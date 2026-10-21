@@ -1,0 +1,4 @@
+interface IrrigationSystem {
+    boolean isIrrigationRequired();
+}
+

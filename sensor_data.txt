@@ -1,0 +1,14 @@
+# AgriSense sensor data - one line per crop field.
+# Format:  CropName, SoilType, Moisture(%), Temperature(C), Humidity(%)
+#   CropName      : Wheat, Rice, Tomato or Cotton
+#   SoilType      : any text, e.g. Loamy, Sandy, Clay, Black Soil
+#   Moisture      : soil moisture, 0 to 100
+#   Temperature   : air temperature in Celsius, -50 to 70
+#   Humidity      : air humidity, 0 to 100
+Wheat,Loamy,28,31,55
+Tomato,Sandy,60,28,65
+Rice,Clay,42,32,70
+Cotton,Black Soil,25,36,40
+Wheat,Loamy,48,26,60
+
+hj

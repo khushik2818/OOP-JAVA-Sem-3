@@ -1,0 +1,1 @@
+Line 14: Enter crop, soil type, moisture, temperature and humidity.

@@ -1,0 +1,51 @@
+
+Field 1 - Wheat
+Soil: Loamy
+Moisture: 28.0%
+Temperature: 31.0 C
+Humidity: 55.0%
+Status: Irrigation required
+Advice: Water wheat lightly.
+
+
+Field 2 - Tomato
+Soil: Sandy
+Moisture: 60.0%
+Temperature: 28.0 C
+Humidity: 65.0%
+Status: No irrigation required
+Advice: Avoid over-watering.
+
+
+Field 3 - Rice
+Soil: Clay
+Moisture: 42.0%
+Temperature: 32.0 C
+Humidity: 70.0%
+Status: Irrigation required
+Advice: Water the field to keep the soil moist.
+
+
+Field 4 - Cotton
+Soil: Black Soil
+Moisture: 25.0%
+Temperature: 36.0 C
+Humidity: 40.0%
+Status: Irrigation required
+Advice: Give the field light irrigation.
+
+
+Field 5 - Wheat
+Soil: Loamy
+Moisture: 48.0%
+Temperature: 26.0 C
+Humidity: 60.0%
+Status: No irrigation required
+Advice: No watering needed now.
+
+
+SUMMARY
+Valid fields: 5
+Irrigation required: 3
+No irrigation required: 2
+Invalid records: 1
